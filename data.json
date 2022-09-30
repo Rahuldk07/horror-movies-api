@@ -1127,5 +1127,13 @@
         "yearReleased": "2017",
         "language": "English",
         "director": "Jordan Peele"
-    }
+    },
+    
+      {
+        "id": 25,
+        "name": "Kanika",
+        "yearReleased": "2017",
+        "language": "Marathi",
+        "director": "Pushkar Manohar"
+    },
 ]
